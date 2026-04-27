@@ -1,4 +1,4 @@
-# Motor Fault Detection — 1-D Residual CNN
+# Motor Fault Detection 1-D Residual CNN
 
 A lightweight time-series classifier for vibration-based predictive maintenance, trained **from scratch** in PyTorch. Targets Texas Instruments C2000 / Sitara DSP inference.
 
